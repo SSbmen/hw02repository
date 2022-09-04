@@ -1,2 +1,4 @@
+# generate access token for Github account, 
 username = 'SSbmen'
+git_token = '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'
 repository = 'hw02repository'
