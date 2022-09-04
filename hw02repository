@@ -2,3 +2,5 @@
 username = 'SSbmen'
 git_token = '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'
 repository = 'hw02repository'
+
+git remote add hw02repository https://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@github.com/SSbmen/hw02repository.git
